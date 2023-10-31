@@ -23,7 +23,7 @@ dengan menghasilkan Bilangan FibonacciSequence (Deret angka Fibonacci) adalah de
 # jawaban
 ## MainActivity
 
-
+```
 package com.fibonanccisequence;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -106,11 +106,12 @@ public class MainActivity extends AppCompatActivity {
         return second;
     }
 }
+```
 
 
 ## Activity_toast
 
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -191,12 +192,12 @@ public class MainActivity extends AppCompatActivity {
         tools:ignore="RtlCompat" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 
 
 ## Strings
 
-
+```
 <resources>
     <string name="app_name">fibonanci sequence</string>
     <string name="button_label_toast">Toast</string>
@@ -206,11 +207,12 @@ public class MainActivity extends AppCompatActivity {
     <string name="Back">Back</string>
     <string name="Restart">Restart</string>
 </resources>
-
+```
 
 
 ## Colors
 
+```
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
@@ -221,6 +223,6 @@ public class MainActivity extends AppCompatActivity {
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 </resources>
-
+```
 
 # Berikut Hasil Runnya
