@@ -1,7 +1,7 @@
 # DeretFibonacci
-Nama    : Aas Novitasari
+Nama    : Fathia Wardah s. Djawas
 
-Nim     : 312210167
+Nim     : 312210196
 
 Kelas   : Ti.22.A1
 
