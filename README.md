@@ -1,5 +1,5 @@
 # DeretFibonacci
-Nama    : Fathia Wardah s. Djawas
+Nama    : Fathia Wardah S. Djawas
 
 Nim     : 312210196
 
